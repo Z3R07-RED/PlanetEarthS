@@ -8,7 +8,8 @@ Simulador de Planeta Tierra
 REQUIERE:
 ======
 
-* python3 
+* apt-get install python3
+* apt-get install python3-tk
 * Módulos requeridos `turtle`, `time`, `random`.
 para la instalación use `pip3`
 EJEMPLO:
